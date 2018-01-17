@@ -6,6 +6,6 @@ Sustainability course is to provide the brief history of sustainability and equi
 
 <img src="images/Sunset in Miami Beach.jpg" alt="Cover Photo" height="50" width="130"/>
 
-! [alt text][Sunset in Miami Beach.jpg]
+![alt text][Sunset in Miami Beach.jpg]
 
-
+[Sunset in Miami Beach.jpg] https://drive.google.com/open?id=1udSq_YoreI1qsrOXdESUZNqOY6e_H3T8 
